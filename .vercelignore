@@ -1,0 +1,4 @@
+bun.lockb
+.git
+node_modules
+dist

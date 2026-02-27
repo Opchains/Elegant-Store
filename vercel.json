@@ -3,6 +3,7 @@
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "framework": "vite",
+  "nodeVersion": "20.x",
   "env": {
     "VITE_SUPABASE_PROJECT_ID": "@vite_supabase_project_id",
     "VITE_SUPABASE_PUBLISHABLE_KEY": "@vite_supabase_publishable_key",
